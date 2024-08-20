@@ -92,21 +92,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
+    "START_IMG_URL", "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
+    "PING_IMG_URL", "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 )
-PLAYLIST_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-STATS_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-TELEGRAM_AUDIO_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-TELEGRAM_VIDEO_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-STREAM_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SOUNCLOUD_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-YOUTUBE_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SPOTIFY_ARTIST_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SPOTIFY_ALBUM_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SPOTIFY_PLAYLIST_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
+PLAYLIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+STATS_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+TELEGRAM_AUDIO_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+TELEGRAM_VIDEO_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+STREAM_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SOUNCLOUD_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+YOUTUBE_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_ARTIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_ALBUM_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_PLAYLIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 
 
 def time_to_seconds(time):
